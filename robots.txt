@@ -1,9 +1,3 @@
 User-agent: *
 Allow: /
-
-# Закрываем заглушку, чтобы она не попадала в поиск
-Disallow: /ru.html
-Disallow: /404.html
-Disallow: /CNAME
-
 Sitemap: https://lucky-bear-win.pro/sitemap.xml
